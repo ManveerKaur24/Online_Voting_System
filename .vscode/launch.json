@@ -1,0 +1,325 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "VotingResultUI1",
+      "request": "launch",
+      "mainClass": "VotingResultUI1",
+      "projectName": "OnlineVoting_28642273"
+    },
+    {
+      "type": "java",
+      "name": "VoterRegistration",
+      "request": "launch",
+      "mainClass": "VoterRegistration",
+      "projectName": "OnlineVoting_28642273"
+    },
+    {
+      "type": "java",
+      "name": "VoterRegistrationUI",
+      "request": "launch",
+      "mainClass": "VoterRegistrationUI",
+      "projectName": "OnlineVoting_28642273"
+    },
+    {
+      "type": "java",
+      "name": "VotingResultUI",
+      "request": "launch",
+      "mainClass": "VotingResultUI",
+      "projectName": "OnlineVoting_28642273"
+    },
+    {
+      "type": "java",
+      "name": "result",
+      "request": "launch",
+      "mainClass": "result",
+      "projectName": "OnlineVoting_28642273"
+    },
+    {
+      "type": "java",
+      "name": "SecurityCheck",
+      "request": "launch",
+      "mainClass": "SecurityCheck",
+      "projectName": "OnlineVoting_28642273"
+    },
+    {
+      "type": "java",
+      "name": "CandidateSection",
+      "request": "launch",
+      "mainClass": "CandidateSection",
+      "projectName": "OnlineVoting_28642273"
+    },
+    {
+      "type": "java",
+      "name": "VoteApp",
+      "request": "launch",
+      "mainClass": "VoteApp",
+      "projectName": "OnlineVoting_28642273"
+    },
+    {
+      "type": "java",
+      "name": "Candidate",
+      "request": "launch",
+      "mainClass": "Candidate",
+      "projectName": "OnlineVoting_28642273"
+    },
+    {
+      "type": "java",
+      "name": "vote",
+      "request": "launch",
+      "mainClass": "vote",
+      "projectName": "OnlineVoting_28642273"
+    },
+    {
+      "type": "java",
+      "name": "SecurityCheck",
+      "request": "launch",
+      "mainClass": "VoteSystem.SecurityCheck",
+      "projectName": "OnlineVoting_28642273"
+    },
+    {
+      "type": "java",
+      "name": "AdminInterface1",
+      "request": "launch",
+      "mainClass": "AdminInterface1",
+      "projectName": "OnlineVoting_28642273"
+    },
+    {
+      "type": "java",
+      "name": "VotingSystem",
+      "request": "launch",
+      "mainClass": "VoteSystem.VotingSystem",
+      "projectName": "OnlineVoting_28642273"
+    },
+    {
+      "type": "java",
+      "name": "jdbc",
+      "request": "launch",
+      "mainClass": "jdbc",
+      "projectName": "OnlineVoting_28642273"
+    },
+    {
+      "type": "java",
+      "name": "MyProject",
+      "request": "launch",
+      "mainClass": "MyProject",
+      "projectName": "OnlineVoting_28642273"
+    },
+    {
+      "type": "java",
+      "name": "VotingPage1",
+      "request": "launch",
+      "mainClass": "VotingPage1",
+      "projectName": "OnlineVoting_28642273"
+    },
+    {
+      "type": "java",
+      "name": "VotingSystem",
+      "request": "launch",
+      "mainClass": "VotingSystem",
+      "projectName": "OnlineVoting_28642273"
+    },
+    {
+      "type": "java",
+      "name": "ElectionResultUI1",
+      "request": "launch",
+      "mainClass": "ElectionResultUI1",
+      "projectName": "OnlineVoting_28642273"
+    },
+    {
+      "type": "java",
+      "name": "CandidateTableUI",
+      "request": "launch",
+      "mainClass": "CandidateTableUI",
+      "projectName": "OnlineVoting_28642273"
+    },
+    {
+      "type": "java",
+      "name": "VotingPage",
+      "request": "launch",
+      "mainClass": "VotingPage",
+      "projectName": "OnlineVoting_28642273"
+    },
+    {
+      "type": "java",
+      "name": "MyUI",
+      "request": "launch",
+      "mainClass": "MyUI",
+      "projectName": "OnlineVoting_28642273"
+    },
+    {
+      "type": "java",
+      "name": "ExampleUI",
+      "request": "launch",
+      "mainClass": "ExampleUI",
+      "projectName": "OnlineVoting_28642273"
+    },
+    {
+      "type": "java",
+      "name": "ImageOnRight",
+      "request": "launch",
+      "mainClass": "ImageOnRight",
+      "projectName": "OnlineVoting_28642273"
+    },
+    {
+      "type": "java",
+      "name": "RightImagePanel",
+      "request": "launch",
+      "mainClass": "RightImagePanel",
+      "projectName": "OnlineVoting_28642273"
+    },
+    {
+      "type": "java",
+      "name": "WelcomePage2",
+      "request": "launch",
+      "mainClass": "WelcomePage2",
+      "projectName": "OnlineVoting_28642273"
+    },
+    {
+      "type": "java",
+      "name": "ImageUI",
+      "request": "launch",
+      "mainClass": "ImageUI",
+      "projectName": "OnlineVoting_28642273"
+    },
+    {
+      "type": "java",
+      "name": "AdminInterface",
+      "request": "launch",
+      "mainClass": "AdminInterface",
+      "projectName": "OnlineVoting_28642273"
+    },
+    {
+      "type": "java",
+      "name": "ElectionResultsUI",
+      "request": "launch",
+      "mainClass": "ElectionResultsUI",
+      "projectName": "OnlineVoting_28642273"
+    },
+    {
+      "type": "java",
+      "name": "ElectionResult",
+      "request": "launch",
+      "mainClass": "ElectionResult",
+      "projectName": "OnlineVoting_28642273"
+    },
+    {
+      "type": "java",
+      "name": "RegistrationPage",
+      "request": "launch",
+      "mainClass": "RegistrationPage",
+      "projectName": "OnlineVoting_28642273"
+    },
+    {
+      "type": "java",
+      "name": "WelcomePage1",
+      "request": "launch",
+      "mainClass": "WelcomePage1",
+      "projectName": "OnlineVoting_28642273"
+    },
+    {
+      "type": "java",
+      "name": "VotingSystemGUI",
+      "request": "launch",
+      "mainClass": "VotingSystemGUI",
+      "projectName": "OnlineVoting_28642273"
+    },
+    {
+      "type": "java",
+      "name": "VoteUI",
+      "request": "launch",
+      "mainClass": "VoteUI",
+      "projectName": "OnlineVoting_28642273"
+    },
+    {
+      "type": "java",
+      "name": "Welcomedemo",
+      "request": "launch",
+      "mainClass": "Welcomedemo",
+      "projectName": "OnlineVoting_28642273"
+    },
+    {
+      "type": "java",
+      "name": "InterfaceOne",
+      "request": "launch",
+      "mainClass": "InterfaceOne",
+      "projectName": "OnlineVoting_28642273"
+    },
+    {
+      "type": "java",
+      "name": "PageConnectionProgram",
+      "request": "launch",
+      "mainClass": "PageConnectionProgram",
+      "projectName": "OnlineVoting_28642273"
+    },
+    {
+      "type": "java",
+      "name": "PageNavigation",
+      "request": "launch",
+      "mainClass": "PageNavigation",
+      "projectName": "OnlineVoting_28642273"
+    },
+    {
+      "type": "java",
+      "name": "LoginButtonExample",
+      "request": "launch",
+      "mainClass": "LoginButtonExample",
+      "projectName": "OnlineVoting_28642273"
+    },
+    {
+      "type": "java",
+      "name": "WelcomePage",
+      "request": "launch",
+      "mainClass": "WelcomePage",
+      "projectName": "OnlineVoting_28642273"
+    },
+    {
+      "type": "java",
+      "name": "UserPage",
+      "request": "launch",
+      "mainClass": "UserPage",
+      "projectName": "OnlineVoting_28642273"
+    },
+    {
+      "type": "java",
+      "name": "OnlineVotingSystem1",
+      "request": "launch",
+      "mainClass": "OnlineVotingSystem1",
+      "projectName": "OnlineVoting_28642273"
+    },
+    {
+      "type": "java",
+      "name": "MyApp",
+      "request": "launch",
+      "mainClass": "MyApp",
+      "projectName": "OnlineVoting_28642273"
+    },
+    {
+      "type": "java",
+      "name": "OnlineVotingSystem",
+      "request": "launch",
+      "mainClass": "OnlineVotingSystem",
+      "projectName": "OnlineVoting_28642273"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/OnlineVoting/src",
+      "program": "d:/OnlineVoting/src/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
